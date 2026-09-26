@@ -1,0 +1,10 @@
+polars==1.44.2
+pyarrow==25.0.1
+Unidecode==1.4.0
+rapidfuzz==3.14.6
+numpy==2.4.4
+lightgbm==4.7.0
+scikit-learn==1.8.0
+scipy==1.17.1
+sparse_dot_topn==1.2.0
+modal
